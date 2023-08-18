@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Full Stack Software Engineer (Artificial Intelligence) with 9 years of coding experience from <img src="https://as1.ftcdn.net/v2/jpg/00/99/43/20/1000_F_99432018_tvamivTA6dusQ6DGnrYUHIaHuvWO6clp.jpg" width="20"/> <b>India</b>
+I am a Full Stack Software Engineer with a decade year of coding experience from <img src="https://as1.ftcdn.net/v2/jpg/00/99/43/20/1000_F_99432018_tvamivTA6dusQ6DGnrYUHIaHuvWO6clp.jpg" width="20"/> <b>India</b>
 
 <h1 align="center">Hi 👋, I'm Gunasekar Jabbala</h1>
 <h3 align="center">A passionate Full Stack Software Engineer from India</h3>
